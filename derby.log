@@ -1,0 +1,64 @@
+----------------------------------------------------------------
+Sat Aug 19 20:17:38 CEST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-018a-0f04-5bfd-00000728ef10 
+on database directory /Users/emreakdag/Desktop/ILS/JAVA17D-Pruefung/mailDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7ad041f3 
+Loaded from file:/Users/emreakdag/Desktop/ILS/JAVA16D/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=16.0.2+7
+user.dir=/Users/emreakdag/Desktop/ILS/JAVA17D-Pruefung
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Aug 19 20:17:39 CEST 2023:
+Instanz a816c00e-018a-0f04-5bfd-00000728ef10 im Datenbankverzeichnis /Users/emreakdag/Desktop/ILS/JAVA17D-Pruefung/mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@7ad041f3 wird heruntergefahren
+----------------------------------------------------------------
+Sat Aug 19 20:17:42 CEST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 08264012-018a-0f04-5bfd-00000728ef10 
+on database directory /Users/emreakdag/Desktop/ILS/JAVA17D-Pruefung/mailDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7ad041f3 
+Loaded from file:/Users/emreakdag/Desktop/ILS/JAVA16D/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=16.0.2+7
+user.dir=/Users/emreakdag/Desktop/ILS/JAVA17D-Pruefung
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Aug 19 20:17:42 CEST 2023:
+Instanz 08264012-018a-0f04-5bfd-00000728ef10 im Datenbankverzeichnis /Users/emreakdag/Desktop/ILS/JAVA17D-Pruefung/mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@7ad041f3 wird heruntergefahren
+----------------------------------------------------------------
+Sat Aug 19 20:18:08 CEST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 6839c016-018a-0f04-5bfd-00000728ef10 
+on database directory /Users/emreakdag/Desktop/ILS/JAVA17D-Pruefung/mailDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7ad041f3 
+Loaded from file:/Users/emreakdag/Desktop/ILS/JAVA16D/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=16.0.2+7
+user.dir=/Users/emreakdag/Desktop/ILS/JAVA17D-Pruefung
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Aug 19 20:18:08 CEST 2023:
+Instanz 6839c016-018a-0f04-5bfd-00000728ef10 im Datenbankverzeichnis /Users/emreakdag/Desktop/ILS/JAVA17D-Pruefung/mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@7ad041f3 wird heruntergefahren
+----------------------------------------------------------------
+Sat Aug 19 20:19:40 CEST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance c851401a-018a-0f04-5bfd-00000728ef10 
+on database directory /Users/emreakdag/Desktop/ILS/JAVA17D-Pruefung/mailDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7ad041f3 
+Loaded from file:/Users/emreakdag/Desktop/ILS/JAVA16D/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=16.0.2+7
+user.dir=/Users/emreakdag/Desktop/ILS/JAVA17D-Pruefung
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Aug 19 20:19:40 CEST 2023:
+Instanz c851401a-018a-0f04-5bfd-00000728ef10 im Datenbankverzeichnis /Users/emreakdag/Desktop/ILS/JAVA17D-Pruefung/mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@7ad041f3 wird heruntergefahren
